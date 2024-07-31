@@ -1,0 +1,14 @@
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\bin\Debug\net8.0\PersonagemApp.exe
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\bin\Debug\net8.0\PersonagemApp.deps.json
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\bin\Debug\net8.0\PersonagemApp.runtimeconfig.json
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\bin\Debug\net8.0\PersonagemApp.dll
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\bin\Debug\net8.0\PersonagemApp.pdb
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.AssemblyInfoInputs.cache
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.AssemblyInfo.cs
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.csproj.CoreCompileInputs.cache
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.dll
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\refint\PersonagemApp.dll
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.pdb
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\PersonagemApp.genruntimeconfig.cache
+C:\Users\vitho\source\repos\PersonagemApp\PersonagemApp\obj\Debug\net8.0\ref\PersonagemApp.dll
